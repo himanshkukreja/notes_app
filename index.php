@@ -8,6 +8,7 @@ if(!isset($_SESSION['loggedin'])||$_SESSION['loggedin']!=true){
 ?>
 <?php
 //Connecting To a Database server
+//Connecting
 $servername= "localhost";
 $username= "root";
 $password="";
